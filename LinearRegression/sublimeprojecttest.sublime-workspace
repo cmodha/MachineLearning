@@ -1,0 +1,379 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"xlabel",
+				"xlabel(\"\t⌬ tabnine"
+			],
+			[
+				"pyplot",
+				"matplotlib.pyplot as pl\t⌬ tabnine"
+			],
+			[
+				"mat",
+				"matplotlib.pyplot\t⌬ tabnine"
+			],
+			[
+				"Hell",
+				"HelloWorld\t⌬ tabnine"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "LinearRegression.py",
+			"settings":
+			{
+				"buffer_size": 2112,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "student-mat.csv",
+			"settings":
+			{
+				"buffer_size": 56993,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install package",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"installe",
+				"Package Control: Install Package"
+			],
+			[
+				"virtaulenv:activate",
+				"Virtualenv: Activate"
+			],
+			[
+				"virtualenv",
+				"Virtualenv: Activate"
+			],
+			[
+				"virtualen",
+				"Virtualenv: Activate"
+			],
+			[
+				"vir",
+				"Virtualenv: Activate"
+			],
+			[
+				"virtua",
+				"Virtualenv: Activate"
+			],
+			[
+				"Install",
+				"Package Control: Install Package"
+			],
+			[
+				"font",
+				"Set Syntax: Font"
+			],
+			[
+				"browse",
+				"Preferences: Browse Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"Su",
+				"Preferences: SublimeGDB Settings – Default"
+			],
+			[
+				"Package Controll Install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/chira/Documents/Python/ML",
+		"/C/Users/chira/Documents/Python/ML/LinearRegression"
+	],
+	"file_history":
+	[
+		"/C/Users/chira/AppData/Roaming/Sublime Text 3/Packages/RainbowBrackets/README.md",
+		"/C/Users/chira/Documents/Python/ML/LinearRegression/sinplot.py",
+		"/C/Users/chira/Documents/Python/ML/LinearRegression/sublimeprojecttest.sublime-project",
+		"/C/Users/chira/Documents/Python/ML/LinearRegression/studentmodel.pickle",
+		"/C/Users/chira/AppData/Roaming/Sublime Text 3/Packages/User/pythonTensorEnv.sublime-build",
+		"/C/Users/chira/AppData/Roaming/Sublime Text 3/Packages/User/Side Bar.sublime-settings",
+		"/C/Users/chira/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/C/Users/chira/AppData/Roaming/Sublime Text 3/Packages/Virtualenv/README.md",
+		"/C/Users/chira/Documents/Python/ML/HelloWorld.py",
+		"/C/Users/chira/AppData/Roaming/Sublime Text 3/Packages/User/A File Icon.sublime-settings",
+		"/C/Users/chira/AppData/Roaming/Sublime Text 3/Packages/A File Icon/.sublime/A File Icon.sublime-settings",
+		"/C/Users/chira/AppData/Roaming/Sublime Text 3/Packages/User/ayu-mirage.sublime-theme.txt",
+		"/C/Users/chira/Documents/4th Year/OOP/Assignment 4/ComplexNumbers",
+		"/C/Users/chira/AppData/Roaming/Sublime Text 3/Packages/SublimeGDB/SublimeGDB.sublime-settings",
+		"/C/Users/chira/AppData/Roaming/Sublime Text 3/Packages/User/SublimeGDB.sublime-settings",
+		"/C/Users/chira/AppData/Roaming/Sublime Text 3/Packages/User/CPPInput.sublime-build"
+	],
+	"find":
+	{
+		"height": 136.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "LinearRegression.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2112,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								626,
+								626
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"color_scheme": "Packages/ayu/ayu-dark.sublime-color-scheme",
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "student-mat.csv",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 56993,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/zzz A File Icon zzz/aliases/Plain Text (CSV).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 136.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.exec":
+	{
+		"height": 241.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/pythonTensorEnv.sublime-build",
+	"project": "sublimeprojecttest.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 220.0,
+	"status_bar_visible": false,
+	"template_settings":
+	{
+	}
+}
